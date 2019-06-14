@@ -1,0 +1,3 @@
+As stated earlier, regular expressions use the backslash character to indicate special forms or to 
+allow special characters to be used without invoking their special meaning. This conflicts with 
+09:48 27-03-2019Python’s usage of the same character for the same purpose in string literals use.
